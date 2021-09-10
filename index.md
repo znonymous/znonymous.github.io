@@ -1,6 +1,8 @@
 ## 凌晨半小时，写一篇周记
 ### 终于见面了，这是一个极简主义风格的令人惊叹的网站。将记录一些生活碎片和思维灵感。
 
+I love :apple:,:pizza:,:car:
+
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
 
 
