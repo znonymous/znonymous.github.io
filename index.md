@@ -1,6 +1,9 @@
 ## 凌晨半小时，写一篇周记
 ### 终于见面了，这是一个极简主义风格的令人惊叹的网站。将记录一些生活碎片和思维灵感。
 
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
+
+
 You can use the [editor on GitHub](https://github.com/znonymous/znonymous.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
